@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ace2d6db-00f9-4d09-bbc6-a7d9fa1f9b3c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1egn1sLIzBycCeRgekjgF4rL4Z5" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="81737102196" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../katas" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.umcs.Main" />
+      <module name="untitled104" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace2d6db-00f9-4d09-bbc6-a7d9fa1f9b3c" name="Default Changelist" comment="" />
+      <created>1594751891551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594751891551</updated>
+      <workItem from="1594751894188" duration="599000" />
+      <workItem from="1594756594756" duration="2636000" />
+      <workItem from="1594804223538" duration="1542000" />
+      <workItem from="1595183881300" duration="6782000" />
+      <workItem from="1595191672523" duration="1302000" />
+      <workItem from="1595332671106" duration="29000" />
+      <workItem from="1595333812539" duration="3125000" />
+      <workItem from="1595355987150" duration="3060000" />
+      <workItem from="1596473039279" duration="86000" />
+      <workItem from="1596624741191" duration="7552000" />
+      <workItem from="1596633469520" duration="42000" />
+      <workItem from="1596637307441" duration="1727000" />
+      <workItem from="1597397982157" duration="847000" />
+      <workItem from="1601328545139" duration="836000" />
+      <workItem from="1601393392062" duration="10548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
